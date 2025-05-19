@@ -7,7 +7,7 @@
 unsigned long tempoms;
 unsigned long tempoInicial = 0;
 unsigned long tempoPisca = 0;
-bool estadoLed = 2;
+bool estadoLed = 1;
 
 void setup()
   
